@@ -1,2 +1,2 @@
 # java
-Make a reposito
+Make a repositories
